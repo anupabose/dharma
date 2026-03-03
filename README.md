@@ -165,9 +165,7 @@ suggest_next({
 // Returns: "Check database connection timeout settings (resolved blocker in previous deployment)"
 ```
 
-## License
 
-MIT
 
 ## Topics
 
